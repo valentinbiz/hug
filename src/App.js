@@ -8,7 +8,7 @@ import HomePage from './Pages/Homepage/HomepageComponent';
 import ShopPage from './Pages/ShopPage/ShopComponent';
 import Header from './Components/Header/HeaderComponent';
 import SignInSignUp from './Pages/SignIn-SignUp/SignInSignUpComponent';
-import { setCurrentUser } from './Redux/User/User.action';
+import { setCurrentUser } from './Redux/User/User.Action';
 
 
 import './App.css';
